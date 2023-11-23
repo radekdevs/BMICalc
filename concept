@@ -1,0 +1,5 @@
+1. The program asks the user to give a height in cm.
+2. The given height is divided by 100 to get height in m.
+3. The program asks the user to give a weight in kg.
+4. The program calculates the Body Mass Index by dividing weight by square of height.
+5. The result is printed.
